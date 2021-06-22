@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSys", "LabSys\LabSys.csproj", "{D8DEA27D-A4CB-4F12-9F0D-98648F703E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSys.BLL", "LabSys.BLL\LabSys.BLL.csproj", "{D04C443D-E743-40E9-A3F9-DF23B9F821FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSys.DAL", "LabSys.DAL\LabSys.DAL.csproj", "{3430F76F-42AC-465C-A290-504214696E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DEA27D-A4CB-4F12-9F0D-98648F703E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DEA27D-A4CB-4F12-9F0D-98648F703E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DEA27D-A4CB-4F12-9F0D-98648F703E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DEA27D-A4CB-4F12-9F0D-98648F703E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04C443D-E743-40E9-A3F9-DF23B9F821FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04C443D-E743-40E9-A3F9-DF23B9F821FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04C443D-E743-40E9-A3F9-DF23B9F821FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04C443D-E743-40E9-A3F9-DF23B9F821FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3430F76F-42AC-465C-A290-504214696E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3430F76F-42AC-465C-A290-504214696E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3430F76F-42AC-465C-A290-504214696E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3430F76F-42AC-465C-A290-504214696E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {045C8847-3F87-47A2-AAF0-48D87A4740B5}
+	EndGlobalSection
+EndGlobal
